@@ -1,0 +1,29 @@
+title:              "SIMPLE LIFE"
+tagline:            "My life is simple"
+email:              "moringjyp@gmail.com"
+description:        "SIMPLE LIFE"
+author:             "rosa"
+baseurl:            "/"
+url:                "https://www.lifesimple.co.kr"
+locale:             "ko_KR"
+thumbnail:          "/img/thumbnail.jpg"
+
+# Social Profiles
+twitter_username:   twitter_username
+instagram_username: instagram_username
+facebook_username:  facebook_username
+linkedin_username:  linkedin_username
+
+# Build settings
+markdown:           kramdown
+permalink:          /:title
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# 블로그 disqus shortname
+disqus:
+  shortname: simple-life-2
