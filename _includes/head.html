@@ -1,7 +1,18 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  
+  <!-- 구글 메타 태그 -->
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-158643655-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-158643655-1');
+  </script>
+
+  <!--구글 메타태그 end  --> -->
   <title>
 		{%if page.title %}
 			{{ page.title }} - {{ site.title }}
@@ -9,6 +20,9 @@
 			{{ site.title }} - {{ site.tagline }}
 		{% endif %}
 	</title>
+  <!-- 네이버 서치콘솔 -->
+  <meta name="naver-site-verification" content="7dd0c1e17624c82dab0c068bb9dea8cb33ca84cc"/>
+  <!-- 네이버 서치콘솔 -->
 
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
