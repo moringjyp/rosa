@@ -2,9 +2,9 @@
 layout: post
 permalink: /category/Marketing/
 title: 이직을 준비하는 자, 면접 편 
-date: 2020-04-04 16:00:00 +9:00
+date: 2020-04-04 15:40:00 +9:00
 feature: 'img/posts/006/a_1.jpg'
-background: '/img/posts/004/b2.jpg'
+background: '/img/posts/006/b2.jpg'
 categories:
   - Marketing
 tags:
