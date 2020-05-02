@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /category/Marketing_02/
-title: 신입사원에게 전해주는 회생생활 꿀 팁!  
+title: 신입사원에게 전해주는 회사생활 꿀 팁!  
 date: 2020-05-02 15:50:00 +9:00
 feature: 'img/posts/007/95cdfeef.jpg'
 background: '/img/posts/006/b2.jpg'
