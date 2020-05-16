@@ -3,7 +3,7 @@ layout: post
 permalink: /category/Marketing_03/
 title: 네이버 검색광고 기초 
 date: 2020-05-16 18:40:00 +9:00
-feature: 'img/posts/008/photo-1502945015378-0e284ca1a5be'
+feature: 'img/posts/008/1.jpg'
 background: '/img/posts/008/b2.jpg'
 categories:
   - Marketing
