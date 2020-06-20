@@ -2,7 +2,7 @@
 layout: post
 permalink: /category/Marketing_05/
 title: 간편 메모 습관 길들이기 
-date: 2020-06-20 19:10:00 +9:00
+date: 2020-06-20 19:01:00 +9:00
 feature: 'img/posts/0010/12.jpg'
 background: '/img/posts/0010/b2.jpg'
 categories:
