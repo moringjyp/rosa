@@ -1,29 +1,38 @@
-<head>
+   <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <!-- 구글 메타 태그 -->
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-158643655-1"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
 
-    gtag('config', 'UA-158643655-1');
+    <!-- Google Tag Manager -->
+
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+     j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+     'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+     })(window,document,'script','dataLayer','GTM-MTBHVRQ');</script>
+
+<!-- End Google Tag Manager -->
+  <!-- 구글 메타 태그 -->
+         <!-- Global site tag (gtag.js) - Google Analytics -->
+       <script async src="https://www.googletagmanager.com/gtag/js?id=UA-158643655-1"></script>
+       <script>
+     window.dataLayer = window.dataLayer || [];
+     function gtag(){dataLayer.push(arguments);}
+     gtag('js', new Date());
+     gtag('config', 'UA-158643655-1');
   </script>
   <!--구글 메타태그 end  -->
-  <title>
-		{%if page.title %}
-			{{ page.title }} - {{ site.title }}
-		{% else %}
-			{{ site.title }} - {{ site.tagline }}
-		{% endif %}
-	</title>
+     <title>
+	 	    {%if page.title %}
+		  	  {{ page.title }} - {{ site.title }}
+		  {% else %}
+		   	{{ site.title }} - {{ site.tagline }}
+	   	{% endif %}
+	  </title>
   <!-- 네이버 서치콘솔 -->
-  <meta name="naver-site-verification" content="7dd0c1e17624c82dab0c068bb9dea8cb33ca84cc"/>
-  <!-- 네이버 서치콘솔 -->
+   <meta name="naver-site-verification" content="7dd0c1e17624c82dab0c068bb9dea8cb33ca84cc"/>
+   <!-- 네이버 서치콘솔 -->
 
-  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
   <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
@@ -123,8 +132,8 @@
 </script>
 <noscript><img height="1" width="1" style="display:none"
   src="https://www.facebook.com/tr?id=2749441438611211&ev=PageView&noscript=1"
-/></noscript>
-<!-- End Facebook Pixel Code -->
-<!-- mailchimp Tag -->
-<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us8.list-manage.com","uuid":"966b7d84b4e3afcffe79e5ba3","lid":"bcd436e4b5","uniqueMethods":true}) })</script><!-- mailchimp end Tag -->
+   /></noscript>
+  <!-- End Facebook Pixel Code -->
+  <!-- mailchimp Tag -->
+  <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us8.list-manage.com","uuid":"966b7d84b4e3afcffe79e5ba3","lid":"bcd436e4b5","uniqueMethods":true}) })</script><!-- mailchimp end Tag -->
 </head>
