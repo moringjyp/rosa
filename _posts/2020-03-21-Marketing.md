@@ -2,6 +2,7 @@
 layout: post
 permalink: /category/Marketing/
 title: 이직을 준비하는 자세
+content_id : mkt000
 date: 2020-03-21 09:22:00 +9:00
 feature: 'img/posts/005/a.jpg'
 background: '/img/posts/004/b2.jpg'
