@@ -1,0 +1,26 @@
+<script type="text/javascript">
+
+  var productId = "{goodsView.goodsNo}";
+  var productName = "{=goodsView['goodsNm']}";
+  var productPrice = {=gd_isset(goodsView['goodsPrice'],0)};
+  var productInfo = [{
+    'id' : productId,
+    'name' : productName,
+    'price' : productPrice
+  }];
+
+  dataLayer.push({
+    'event' : 'detail',
+    'ecommerce': {
+      'detail': {
+        'products': [{
+          'name': productId,
+          'id': productName,
+          'price': productPrice,
+         }]
+       }
+     },
+     'productInfo' : productInfo
+  });
+
+</script>
