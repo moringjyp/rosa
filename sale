@@ -6,7 +6,8 @@
   var productInfo = [{
     'id' : productId,
     'name' : productName,
-    'price' : productPrice
+    'price' : productPrice'
+
   }];
 
   dataLayer.push({
