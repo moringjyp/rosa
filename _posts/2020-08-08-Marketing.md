@@ -3,7 +3,7 @@ layout: post
 permalink: /category/Marketing_07/
 title: 업무를 빠르게 처리하는 방법 
 content_id : mkt007
-date: 2020-08-07 23:50:00 +9:00
+date: 2020-08-07 23:54:00 +9:00
 feature: 'img/posts/0011/13.jpg'
 background: '/img/posts/0011/b2.jpg'
 categories:
