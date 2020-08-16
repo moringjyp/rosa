@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /category/Marketing_04/
+permalink: /category/Marketing/
 title: 이직 포트폴리오 준비 편
 content_id : mkt004
 date: 2020-06-13 19:10:00 +9:00

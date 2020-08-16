@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /category/Marketing_06/
+permalink: /category/Marketing/
 title: 보고서의 기본을 알고 가자
 content_id : mkt006
 date: 2020-07-12 09:06:00 +9:00
