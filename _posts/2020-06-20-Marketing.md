@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /category/Marketing_05/
+permalink: /category/Marketing/
 title: 간편 메모 습관 길들이기
 content_id : mkt005
 date: 2020-06-20 19:01:00 +9:00

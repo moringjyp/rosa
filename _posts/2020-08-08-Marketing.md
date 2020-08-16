@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /category/Marketing_07/
+permalink: /category/Marketing/
 title: 업무를 빠르게 처리하는 방법
 content_id : mkt007
 date: 2020-08-08 09:00:00 +9:00

@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /category/Marketing_02/
+permalink: /category/Marketing/
 title: 신입사원에게 전해주는 회사생활 꿀 팁!
 content_id : mkt002
 date: 2020-05-02 15:50:00 +9:00

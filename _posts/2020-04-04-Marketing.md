@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /category/Marketing_01/
+permalink: /category/Marketing/
 title: 이직을 준비하는 자, 면접 편
 content_id : mkt001
 date: 2020-04-04 15:40:00 +9:00

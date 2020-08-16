@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /category/Marketing_03/
+permalink: //category/Marketing/
 title: 네이버 검색광고 기초
 content_id : mkt003
 date: 2020-05-16 18:40:00 +9:00
