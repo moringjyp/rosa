@@ -1,0 +1,10 @@
+ <script>
+var logincheck ={{=gd_is_login()};
+if (logincheck === 1) {
+var userId = '{=gSess.memNo}';
+var dateLayer = [{
+    'userId' : userId
+    'logincheck' : '0'
+}};
+ }
+</script>

@@ -1,0 +1,16 @@
+<!--gtas 상품 상세 페이지 코드 시작 -->
+<script>
+var productId = "{goodsView.goodsNo}";
+var productName = "{=goodsView['goodsNm']}";
+var productPrice = {=gd_isset(goodsView['goodsPrice'],0)};
+
+gtag('event' , 'view_item'; {
+ "items" : [
+  }
+ "id": productid,
+ "name": productName,
+ "price": productPrice
+    }
+  ]
+});
+</script>

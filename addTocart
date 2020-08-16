@@ -1,0 +1,20 @@
+<script type= "text/javascript">
+
+var productId = "{goodsView.goodsNo};"
+var productName = "{=goodsView['goodsNm']};"
+var productPrice = {=gd_isset(goodsView['goodsPrice'],0)};
+
+dataLayer.push({
+  'event': 'addToCart',
+  'ecommerce': {
+    'currencyCode': 'KRW',
+      'products': [{
+        'id': productid,
+        'name': productName,
+        'value': productPrice,
+        'quantity': 1
+     }]
+    }
+  }
+});
+</script>
